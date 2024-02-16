@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tasarım Çalışması Ödevi</string>
+    <string name="loginText">Oturum aç</string>
+    <string name="loginDescription">Sosyal ağlarla giriş yapın</string>
+    <string name="forgotpassword">Şifrenizi mi unuttunuz?</string>
+    <string name="loginBtnText">Oturum aç</string>
+    <string name="signin">Kayıt ol</string>
+    <string name="hintEmail">Eposta</string>
+    <string name="hintPassword">Şifre</string>
+</resources>

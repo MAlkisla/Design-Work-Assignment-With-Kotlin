@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesignWorkAssignment</string>
+    <string name="loginText">Log in</string>
+    <string name="loginDescription">Login with social networks</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="loginBtnText">Log in</string>
+    <string name="signin">Sign in</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+</resources>
